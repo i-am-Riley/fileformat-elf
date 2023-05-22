@@ -8,9 +8,13 @@ updates:
   - package-ecosystem: "nuget" # See documentation for possible values
     directory: "Rileysoft.FileFormats.ELF/Rileysoft.FileFormats.ELF" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    commit-message:
+      prefix: "Dependencies: "
 updates:
   - package-ecosystem: "nuget" # See documentation for possible values
     directory: "Rileysoft.FileFormats.ELF/Rileysoft.FileFormats.ELF.Tests" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    commit-message:
+      prefix: "Dependencies: "
