@@ -14,7 +14,7 @@
     <RepositoryUrl>https://github.com/i-am-Riley/fileformat-elf</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>elf</PackageTags>
-    <PackageReleaseNotes>Port code from Rileysoft.DotHack</PackageReleaseNotes>
+    <PackageReleaseNotes>Update Rileysoft.Common from 1.0.0 to 1.1.0</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
